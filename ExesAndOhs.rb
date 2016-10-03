@@ -3,6 +3,7 @@
 # The string can contains any char.
 
 
+#My Answer
 def XO(str)
   str.downcase!
   str.count('o') == str.count('x')
